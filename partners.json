@@ -1,0 +1,38 @@
+[
+  {
+    "organisation": "Farfetch",
+    "offices": [
+      {
+        "address": "211 Old St, Old Street, London EC1V 9NR",
+        "coordinates": "51.526081, -0.088709"
+      },
+      {
+        "address": "R. Lionesa 446, 4465-332 Leça do Balio, Portugal",
+        "coordinates": "41.214449, -8.623058"
+      }
+    ]
+  },
+  {
+    "organisation": "The Net-A-Porter Group",
+    "offices": [
+      {
+        "address": "932 Woolwich Rd, Greenwich Peninsula, London SE7 7RU",
+        "coordinates": "51.526081, -0.088709"
+      }
+    ]
+  },
+  {
+    "organisation": "IT Human Resources",
+    "offices": [
+      {
+        "address": "House 168, Berkshire, 173 High Holborn, London WC1V 7AA",
+        "coordinates": ""
+      }
+    ]
+  },
+  {},
+  {
+    "organisation": "Not on the Highstreet",
+    "offices": []
+  }
+]
