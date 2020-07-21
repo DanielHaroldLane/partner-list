@@ -29,6 +29,11 @@
         "location": "London, United Kingdom",
         "address": "932 Woolwich Rd, Greenwich Peninsula, London SE7 7RU",
         "coordinates": "51.526081, -0.088709"
+      },
+      {
+        "location": "Kettering, United Kingdom",
+        "address": "Somewhere, Kettering",
+        "coordinates": "52.397730, -0.734555"
       }
     ]
   },
