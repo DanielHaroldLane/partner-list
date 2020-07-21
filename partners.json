@@ -1,30 +1,46 @@
 [
   {
+    "id": 1,
+    "urlName": "farfetch",
     "organisation": "Farfetch",
+    "customerLocations": "United Kingdom and Portugal",
+    "willWorkRemotely": true,
     "offices": [
       {
+        "location": "London, United Kingdom",
         "address": "211 Old St, Old Street, London EC1V 9NR",
         "coordinates": "51.526081, -0.088709"
       },
       {
+        "location": "Porto, Portugal",
         "address": "R. Lionesa 446, 4465-332 Leça do Balio, Portugal",
         "coordinates": "41.214449, -8.623058"
       }
     ]
   },
   {
+    "id": 2,
+    "urlName": "net-a-porter",
     "organisation": "The Net-A-Porter Group",
+    "customerLocations": "United Kingdom",
+    "willWorkRemotely": true,
     "offices": [
       {
+        "location": "London, United Kingdom",
         "address": "932 Woolwich Rd, Greenwich Peninsula, London SE7 7RU",
         "coordinates": "51.526081, -0.088709"
       }
     ]
   },
   {
+    "id": 3,
+    "urlName": "ithr",
     "organisation": "IT Human Resources",
+    "customerLocations": "United Kingdom",
+    "willWorkRemotely": true,
     "offices": [
       {
+        "location": "London, United Kingdom",
         "address": "House 168, Berkshire, 173 High Holborn, London WC1V 7AA",
         "coordinates": ""
       }
@@ -32,7 +48,11 @@
   },
   {},
   {
+    "id": 4,
+    "urlName": "noths",
+    "customerLocations": "United Kingdom",
     "organisation": "Not on the Highstreet",
+    "willWorkRemotely": true,
     "offices": []
   }
 ]
